@@ -1,0 +1,14 @@
+{
+  "name": "nsww-verification",
+  "version": "1.0.0",
+  "description": "Bot de verificación NSWW",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.4.2",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.2"
+  }
+}
