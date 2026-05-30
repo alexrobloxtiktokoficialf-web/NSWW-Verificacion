@@ -1,7 +1,6 @@
 {
   "name": "nsww-verification",
   "version": "1.0.0",
-  "description": "Bot de verificación NSWW",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
